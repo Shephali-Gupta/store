@@ -1,7 +1,7 @@
 package com.shephali.store.service;
 
-import com.workpay.store.model.Offer;
-import com.workpay.store.repository.StoreRepository;
+import com.shephali.store.model.Offer;
+import com.shephali.store.repository.StoreRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
